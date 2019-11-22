@@ -1,3 +1,3 @@
 # Temperature Activated Portable Fan System
-Link in the Description:
+Link:
 https://www.instructables.com/id/Temperature-Activated-Portable-Fan-System/
